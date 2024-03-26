@@ -18,7 +18,7 @@
     DB_HOST=seu-host
     DB_USER=seu-usuario
     DB_PASSWORD=sua-senha
-    DB_DATABASE=seu-banco-de-dados```
+    DB_DATABASE=seu-banco-de-dados
 
 ## Uso
 
